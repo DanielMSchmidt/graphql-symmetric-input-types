@@ -1,0 +1,26 @@
+{
+  "name": "graphql-symmetric-input-tags",
+  "version": "0.0.1",
+  "description": "Write your schema as if there were no input types and let them be generated for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DanielMSchmidt/graphql-symmetric-input-types.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "DanielMSchmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMSchmidt/graphql-symmetric-input-types/issues"
+  },
+  "homepage": "https://github.com/DanielMSchmidt/graphql-symmetric-input-types#readme",
+  "devDependencies": {
+    "graphql-tools": "^4.0.3",
+    "jest": "^23.6.0"
+  }
+}
